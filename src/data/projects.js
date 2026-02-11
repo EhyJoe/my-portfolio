@@ -1,14 +1,14 @@
 export const projects = [
-  {
+    {
     id: 1,
-    title: "News Website",
-    description: "A modern news aggregation platform built with React and responsive design. Features article categorization, search functionality, and clean typography for optimal reading experience.",
-    techStack: ["React", "Tailwind CSS", "JavaScript", "Responsive Design"],
-    liveUrl: "https://ibnad.vercel.app",
+    title: "Church Website",
+    description: "A diocesan website for Ibadan North Diocese. A website created for Updates, Events and Breakdown of the diocese structure.",
+    techStack: ["React", "Tailwind CSS", "TypeScript", "Accessibility"],
+    liveUrl: "https://diocese-tau.vercel.app",
     demoUrl: "#",
-    category: "Web Application"
+    category: "Church"
   },
-  {
+   {
     id: 2,
     title: "E-Commerce Website",
     description: "Full-featured e-commerce interface with product catalog, shopping cart, and checkout flow. Implemented with modern React patterns and mobile-first responsive design.",
@@ -19,12 +19,12 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Banking Website",
-    description: "Professional banking website interface focusing on security, accessibility, and user trust. Clean design with emphasis on financial data presentation and user authentication flows.",
-    techStack: ["React", "Tailwind CSS", "JavaScript", "Accessibility"],
-    liveUrl: "#",
+    title: "News Website",
+    description: "A modern news aggregation platform built with React and responsive design. Features article categorization, search functionality, and clean typography for optimal reading experience.",
+    techStack: ["React", "Tailwind CSS", "JavaScript", "Responsive Design"],
+    liveUrl: "https://ibnad.vercel.app",
     demoUrl: "#",
-    category: "Financial"
+    category: "Web Application"
   },
   {
     id: 4,

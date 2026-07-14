@@ -10,12 +10,12 @@ const Hero = () => {
             Joseph Obeata
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-600 mb-8 font-light">
-            Frontend Web Developer
+            Frontend Developer with Backend Experience
           </h2>
           <p className="text-lg md:text-xl text-gray-700 mb-12 max-w-2xl leading-relaxed">
-            I build modern, responsive web interfaces using React and Tailwind CSS. 
-            Focused on clean code, semantic HTML, and exceptional user experiences 
-            across all devices.
+            I build modern, responsive web applications with React and Tailwind CSS,
+            and I also work with backend features like APIs, admin dashboards, content
+            management, authentication flows, and data-driven user experiences.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 mb-16">

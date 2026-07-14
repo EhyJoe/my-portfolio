@@ -12,27 +12,30 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                I'm a passionate frontend developer with a strong foundation in modern 
-                web technologies. My approach focuses on writing clean, maintainable code 
-                that delivers exceptional user experiences.
+                I'm a frontend-focused web developer with growing full-stack experience.
+                My work starts with clean, responsive interfaces, but I also build the
+                backend pieces that make websites useful, such as admin panels, contact
+                forms, content controls, dashboards, and API-powered features.
               </p>
               
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                With expertise in React and Tailwind CSS, I specialize in building 
-                responsive, accessible web applications that work seamlessly across all 
-                devices and browsers.
+                With React, Tailwind CSS, JavaScript, and modern tooling, I create
+                web applications that feel polished on the surface and practical behind
+                the scenes. I care about the details users see and the data flows that
+                support them.
               </p>
               
               <p className="text-lg text-gray-700 leading-relaxed">
-                I believe in the power of semantic HTML, component-driven architecture, 
-                and mobile-first design principles to create web experiences that are 
-                both beautiful and functional.
+                I enjoy building systems for real organisations: churches, nonprofits,
+                property teams, commerce brands, and media platforms. The goal is always
+                the same: reliable tools that are easy to use, easy to manage, and ready
+                to grow.
               </p>
             </div>
             
             <div className="bg-white p-8 rounded-lg shadow-sm">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">
-                Frontend Focus Areas
+                Focus Areas
               </h3>
               <ul className="space-y-3">
                 <li className="flex items-center text-gray-700">
@@ -45,15 +48,15 @@ const About = () => {
                 </li>
                 <li className="flex items-center text-gray-700">
                   <span className="w-2 h-2 bg-gray-900 rounded-full mr-3"></span>
-                  Performance Optimization
+                  API Integration
                 </li>
                 <li className="flex items-center text-gray-700">
                   <span className="w-2 h-2 bg-gray-900 rounded-full mr-3"></span>
-                  Accessibility Standards
+                  Admin Dashboards
                 </li>
                 <li className="flex items-center text-gray-700">
                   <span className="w-2 h-2 bg-gray-900 rounded-full mr-3"></span>
-                  Cross-browser Compatibility
+                  Content & Data Management
                 </li>
               </ul>
             </div>

@@ -4,7 +4,7 @@ export const projects = [
     title: "Church Website",
     description: "A diocesan website for Ibadan North Diocese. A website created for Updates, Events and Breakdown of the diocese structure.",
     techStack: ["React", "Tailwind CSS", "TypeScript", "Accessibility", "Vite"],
-    liveUrl: "https://diocese-tau.vercel.app",
+    liveUrl: "https://ibadannorthanglicandiocese.org",
     demoUrl: "#",
     category: "Church"
   },
@@ -35,14 +35,33 @@ export const projects = [
     demoUrl: "#",
     category: "Commercial"
   },
+
   {
     id: 5,
-    title: "News Website",
-    description: "A modern news aggregation platform built with React and responsive design. Features article categorization, search functionality, and clean typography for optimal reading experience.",
-    techStack: ["React", "Tailwind CSS", "JavaScript", "Responsive Design"],
-    liveUrl: "https://ibnad.vercel.app",
+    title: "The Voice Inc Website",
+    description: "A responsive nonprofit website for The Voice Inc. It presents the organization's mission, outreach programs, events, campaigns, gallery, videos, donation flow, and private admin controls for managing public content.",
+    techStack: ["React", "Tailwind CSS", "JavaScript", "Vite", "Admin Dashboard"],
+    liveUrl: "https://thevoiceinc.vercel.app",
     demoUrl: "#",
-    category: "Web Application"
+    category: "Nonprofit"
+  },
+  {
+    id: 6,
+    title: "Ibadan North Anglican Diocese",
+    description: "A complete diocesan portal for the Anglican Diocese of Ibadan North. The site organizes bishop information, archdeaconries, parishes, organisations, institutions, sermons, news, events, resources, donations, and contact messaging.",
+    techStack: ["React", "Tailwind CSS", "JavaScript", "Vite", "Content Management"],
+    liveUrl: "https://ibadannorthanglicandiocese.org",
+    demoUrl: "#",
+    category: "Church"
+  },
+  {
+    id: 7,
+    title: "Spaceflow",
+    description: "A property and tenant management web app with an admin dashboard for buildings, wings, tenants, rent dates, and targeted messages. It also includes a tenant portal where residents can view their details using a unique access code.",
+    techStack: ["React", "JavaScript", "Vite", "Dashboard UI", "Local Storage"],
+    liveUrl: "https://spaceflow-kappa.vercel.app",
+    demoUrl: "#",
+    category: "Property Management"
   },
 ];
 

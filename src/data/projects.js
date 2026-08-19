@@ -63,6 +63,15 @@ export const projects = [
     demoUrl: "#",
     category: "Property Management"
   },
+    {
+    id: 8,
+    title: "The Voice Foundation",
+    description: "A full-stack website for a non-profit foundation, featuring a React frontend to share the organization's mission and work with visitors, backed by a Node.js/Express server handling contact form submissions and API requests, with a responsive layout designed to build trust and engagement with donors and the public.",
+    techStack: ["React", "Node.js", "Express", "JavaScript", "Tailwind CSS", "REST API"],
+    liveUrl: "https://thevoicef.org",
+    demoUrl: "#",
+    category: "Non-Profit / Foundation"
+  },
 ];
 
 export const skills = [

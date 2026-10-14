@@ -26,8 +26,17 @@ export const projects = [
     demoUrl: "#",
     category: "Movie"
   },
-    {
+   {
     id: 4,
+    title: "Central Academy",
+    description: "A full-stack project for Central Academy. Worked across the frontend and backend with Next.js and Python, collaborating with AI engineers.",
+    techStack: ["Next.js", "Python", "Frontend Development", "Backend Development", "AI Collaboration"],
+    liveUrl: "https://centralacad.online",
+    demoUrl: "#",
+    category: "Education"
+  },
+    {
+    id: 5,
     title: "Delivery app",
     description: "A landing page for a delivery company, where you can see everything concerning the delivery structure",
     techStack: ["React", "TailwindCss", "JavaScript", "Vite"],
@@ -37,7 +46,7 @@ export const projects = [
   },
 
   {
-    id: 5,
+    id: 6,
     title: "The Voice Inc Website",
     description: "A responsive nonprofit website for The Voice Inc. It presents the organization's mission, outreach programs, events, campaigns, gallery, videos, donation flow, and private admin controls for managing public content.",
     techStack: ["React", "Tailwind CSS", "JavaScript", "Vite", "Admin Dashboard"],
@@ -46,7 +55,7 @@ export const projects = [
     category: "Nonprofit"
   },
   {
-    id: 6,
+    id: 7,
     title: "Ibadan North Anglican Diocese",
     description: "A complete diocesan portal for the Anglican Diocese of Ibadan North. The site organizes bishop information, archdeaconries, parishes, organisations, institutions, sermons, news, events, resources, donations, and contact messaging.",
     techStack: ["React", "Tailwind CSS", "JavaScript", "Vite", "Content Management"],
@@ -55,7 +64,7 @@ export const projects = [
     category: "Church"
   },
   {
-    id: 7,
+    id: 8,
     title: "Spaceflow",
     description: "A property and tenant management web app with an admin dashboard for buildings, wings, tenants, rent dates, and targeted messages. It also includes a tenant portal where residents can view their details using a unique access code.",
     techStack: ["React", "JavaScript", "Vite", "Dashboard UI", "Local Storage"],
@@ -63,8 +72,8 @@ export const projects = [
     demoUrl: "#",
     category: "Property Management"
   },
-    {
-    id: 8,
+  {
+    id: 9,
     title: "The Voice Foundation",
     description: "A full-stack website for a non-profit foundation, featuring a React frontend to share the organization's mission and work with visitors, backed by a Node.js/Express server handling contact form submissions and API requests, with a responsive layout designed to build trust and engagement with donors and the public.",
     techStack: ["React", "Node.js", "Express", "JavaScript", "Tailwind CSS", "REST API"],
@@ -72,15 +81,7 @@ export const projects = [
     demoUrl: "#",
     category: "Non-Profit / Foundation"
   },
-  {
-    id: 9,
-    title: "Central Academy",
-    description: "A full-stack project for Central Academy. Worked across the frontend and backend with Next.js and Python, collaborating with AI engineers.",
-    techStack: ["Next.js", "Python", "Frontend Development", "Backend Development", "AI Collaboration"],
-    liveUrl: "https://centralacad.online",
-    demoUrl: "#",
-    category: "Education"
-  },
+ 
 ];
 
 export const skills = [

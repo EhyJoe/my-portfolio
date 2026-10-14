@@ -72,6 +72,15 @@ export const projects = [
     demoUrl: "#",
     category: "Non-Profit / Foundation"
   },
+  {
+    id: 9,
+    title: "Central Academy",
+    description: "A full-stack project for Central Academy. Worked across the frontend and backend with Next.js and Python, collaborating with AI engineers.",
+    techStack: ["Next.js", "Python", "Frontend Development", "Backend Development", "AI Collaboration"],
+    liveUrl: "https://centralacad.online",
+    demoUrl: "#",
+    category: "Education"
+  },
 ];
 
 export const skills = [
